@@ -12,10 +12,10 @@
 - ASP.NET Web Forms, HTML/CSS
 - Music production
 
-# 💾 Stuff I might do
+## 💾 Stuff I might do
 - Create a Discord Bot for my School's FB Page
 - Start developing a Roblox game
 
-If you're interested in any of these stuff, feel free to have to little chat! 😁
+### If you're interested in any of these stuff, feel free to have to little chat! 😁
 ---
 
