@@ -3,7 +3,6 @@
 💻 I code, play games (Roblox, Valorant, League), and produce music.
 
 ## ⚡ What I Do
-- Building projects in **Python, C#, and **
 - I kinda like to integrate and connect productivity apps/tools
 
 ## 🛠️ Skills
