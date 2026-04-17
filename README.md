@@ -8,9 +8,8 @@ I code, play games (Roblox, Valorant, League), and produce music.
 
 ## Skills
 - Languages: Python, C#, SQL
-- Web and Frameworks: ASP.NET Web Forms, HTML/CSS
-- Tools: Visual Studio, Cursor, Antigravity, Weka (Machine Learning)
-- Technical Interests: Machine Learning and Music Production
+- Web and Frameworks: Flask, .NET, HTML/CSS
+- Stuff I Use: Cursor, Antigravity, Weka (Machine Learning)
 
 ## Recent Activity
 - Machine Learning: Implementing classification and clustering models using Naive Bayes and evaluating performance metrics within the Weka environment.
