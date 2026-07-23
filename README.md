@@ -1,5 +1,5 @@
 
-# Hi, Ken Magaling
+# Hi, I'm Ken Magaling.
 
 BS Computer Science student specializing in Data Science and Analytics at Mapúa Malayan Colleges Laguna. I focus on machine learning and database management, balancing technical development with creative pursuits.
 
