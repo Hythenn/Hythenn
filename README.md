@@ -1,20 +1,19 @@
-## Hi, I'm Ken Magaling  
-BS Computer Science Student at Mapúa Malayan Colleges Laguna  
-I code, play games (Roblox, Valorant, League), and produce music.
 
-## What I Do
-- Specialized focus in Data Science and Analytics.
-- Implementation of automated workflows by integrating productivity ecosystems like Todoist and Notion.
+# Hi, Ken Magaling
 
-## Skills
-- Languages: Python, C#, SQL
-- Web and Frameworks: Flask, .NET, HTML/CSS
-- Stuff I Use: Cursor, Antigravity, Weka (Machine Learning)
+BS Computer Science student specializing in Data Science and Analytics at Mapúa Malayan Colleges Laguna. I focus on machine learning and database management, balancing technical development with creative pursuits.
 
-## Recent Activity
-- Machine Learning: Implementing classification and clustering models using Naive Bayes and evaluating performance metrics within the Weka environment.
-- Computer Vision: Developing Python based scripts for optical character recognition (OCR) and face detection algorithms.
-- Data Management: Executing complex SQL queries and managing relational database schemas for academic and personal projects.
-- Hardware Architecture: Analyzing processor performance through the study of pipelining mechanics and memory access time optimization.
+## Technical Skills
 
----
+*   **Languages:** Python, Kotlin, C#, SQL, HTML/CSS
+*   **Frameworks & Environments:** .NET, Flask, Weka, Jetpack Compose
+*   **Tools:** Cursor, Antigravity, Todoist, Notion
+*   **Core Competencies:** Classification & Clustering Models, Optical Character Recognition, Relational Database Schemas
+
+## Beyond the Code
+
+Beyond academic and technical development, my time is heavily dedicated to music and gaming. I actively play instruments, record covers, and continuously build out my personal music portfolio. I also do music production and song writing. On the gaming side, my interests range from the competitive games of League of Legends, Valorant, 2XKO, etc. I am very interested in other technical story-based games like Baldur's Gate 3 and some select few Roblox Games. Somehow, I believe these hobbies shapes how I approach design and problem solving.
+
+Feel free to have a quick chat!
+
+
