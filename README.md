@@ -1,19 +1,30 @@
+# Hi, I'm Ken Magaling 
 
-# Hi, I'm Ken Magaling.
+BS Computer Science student at **Mapúa Malayan Colleges Laguna**, specializing in **Data Science and Analytics**. 
 
-BS Computer Science student specializing in Data Science and Analytics at Mapúa Malayan Colleges Laguna. I focus on machine learning and database management, balancing technical development with creative pursuits.
+I spend most of my time working with machine learning models, predictive analytics, and relational databases, alongside building full-stack web and mobile applications. I like taking messy datasets or complex system rules and turning them into clean, usable software.
 
-## Technical Skills
+### Data Science & Tech Stack
 
-*   **Languages:** Python, Kotlin, C#, SQL, HTML/CSS
-*   **Frameworks & Environments:** .NET, Flask, Weka, Jetpack Compose
-*   **Tools:** Cursor, Antigravity, Todoist, Notion
-*   **Core Competencies:** Classification & Clustering Models, Optical Character Recognition, Relational Database Schemas
+* **Languages:** Python, SQL, C#, Kotlin, TypeScript, HTML/CSS
+* **Data Science & ML:** scikit-learn, pandas, joblib, Weka, Google Colab
+* **Frameworks & Platforms:** Flask, .NET, Jetpack Compose, Unity
+* **Tools & Workflow:** Cursor, Visual Studio, Antigravity, Android Studio, Git/GitHub, Notion
+* **What I Work On:** Classification & Ensemble Models, Demand Forecasting, Feature Selection & Statistical Analysis, Optical Character Recognition (OCR), Relational Database Design
 
-## Beyond the Code
+### Currently Building & Exploring
 
-Beyond academic and technical development, my time is heavily dedicated to music and gaming. I actively play instruments, record covers, and continuously build out my personal music portfolio. I also do music production and song writing. On the gaming side, my interests range from the competitive games of League of Legends, Valorant, 2XKO, etc. I am very interested in other technical story-based games like Baldur's Gate 3 and some select few Roblox Games. Somehow, I believe these hobbies shapes how I approach design and problem solving.
+* **Predictive Analytics & Operations Systems:** Building web-based POS and inventory management tools powered by demand forecasting models.
+* **Applied Machine Learning:** Training and deploying classification pipelines and ensemble models on the web with Flask and scikit-learn.
+* **Systems-Heavy Game Dev:** Designing modular narrative engines and tabletop-inspired mechanics for text-based RPGs.
 
-Feel free to have a quick chat!
+### Outside of Code
 
+When I'm not in an IDE or a notebook, I'm usually producing music or gaming:
 
+* **Music:** I write, arrange, and mix original tracks and covers in Studio One (mostly playing bass, rhythm guitar, and keys).
+* **Gaming:** I bounce between tactical/competitive titles (*Valorant*, *League of Legends*, *2XKO*) and deep, systems-heavy RPGs (*Baldur's Gate 3*, *Project Zomboid*, and tabletop *D&D 5e*), plus physical TCGs like *Riftbound* and *MTG*.
+
+---
+
+Feel free to reach out if you want to talk data science, software architecture, music production, or games.
