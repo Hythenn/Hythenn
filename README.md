@@ -23,7 +23,7 @@ I spend most of my time working with machine learning models, predictive analyti
 When I'm not in an IDE or a notebook, I'm usually producing music or gaming:
 
 * **Music:** I write, arrange, and mix original tracks and covers in Studio One (mostly playing bass, rhythm guitar, and keys).
-* **Gaming:** I bounce between tactical/competitive titles (*Valorant*, *League of Legends*, *2XKO*) and deep, systems-heavy RPGs (*Baldur's Gate 3*, *Project Zomboid*, and tabletop *D&D 5e*), plus physical TCGs like *Riftbound* and *MTG*.
+* **Gaming:** I bounce between tactical/competitive titles (*Valorant*, *League of Legends*) and deep, systems-heavy RPGs (*Baldur's Gate 3*, *Project Zomboid*), and maybe physical TCGs like *Riftbound*.
 
 ---
 
